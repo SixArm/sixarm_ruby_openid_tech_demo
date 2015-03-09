@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » OpenID » Tech demo for programmers
+# Ruby » OpenID » Tech demo for programmers
 
 This Ruby OpenID tech demo shows a simple example of authentication using the command line and the ruby-openid gem.
 
